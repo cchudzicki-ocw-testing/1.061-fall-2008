@@ -17,7 +17,7 @@ Directions: Click on the images to begin the animation.
 Continuous Release into a Uniform Flow
 --------------------------------------
 
-[{{< resource 2b762462-196a-a227-8c88-d36c8892de3f "Continuous Release into a Uniform Flow." >}}]({{< baseurl >}}/resources/anim6)
+[{{< resource "2b762462-196a-a227-8c88-d36c8892de3f" >}}]({{< baseurl >}}/resources/anim6)
 
 Steady 2-D and 3-D solutions
 
