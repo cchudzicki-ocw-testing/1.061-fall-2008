@@ -14,7 +14,7 @@ The animations were generated with MATLAB software.
 
 Directions: Click on the images to begin the animation.
 
-[{{< resource cadfaf9b-ce76-744e-01d0-3683539e393d "Anisotropic diffusion in two dimensions." >}}](/ans7870/1/1.061/f04/animation/ANISO.AVI)
+{{< resource uuid="cadfaf9b-ce76-744e-01d0-3683539e393d" href="/ans7870/1/1.061/f04/animation/ANISO.AVI" >}}
 
 Anisotropic diffusion in two dimensions output of MATLAB software.
 
