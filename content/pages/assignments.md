@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The homework sets from the class are presented in this section.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

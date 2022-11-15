@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Several of the labs from the course are presented in this section.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
